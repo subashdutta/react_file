@@ -33,7 +33,7 @@ export default function File() {
   return (
     <div
       className="d-flex justify-content-center gap-3  "
-      style={{ marginTop: "30px" }}
+      style={{ marginTop: "40px" }}
     >
       <button type="button" className="btn btn-primary ">
         <div
